@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Bento :wave: Freelance Developer
+## Hi :wave:, I'm Bento. A Ruby on Rails Freelance Developer among the others :seed: 
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
 
