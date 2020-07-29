@@ -16,7 +16,7 @@
   </samp>
 </p>
 
-<p align="center">
+<div align="center">
 ## Hi, I'm Bento ! :bowtie:
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
@@ -27,7 +27,7 @@
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
-</p>
+</div>
 
 ### :information_source: About me
 
