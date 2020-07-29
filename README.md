@@ -1,10 +1,8 @@
 ## Hi, I'm Bento ! :bowtie:
 
-![](https://tenor.com/bj4yx.gif)
-
-![GitHub followers](https://tenor.com/view/kaamelott-arthur-roi-arthur-coucou-gif-17138063)
-
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
+
+![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
 Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
