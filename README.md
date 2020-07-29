@@ -27,6 +27,8 @@
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
+</p>
+
 ### :information_source: About me
 
 > **Learning :** Freelancing :zap: & Tailwind CSS :leaves:
@@ -43,4 +45,3 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</p>
