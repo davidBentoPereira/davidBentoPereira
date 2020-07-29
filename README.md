@@ -1,12 +1,16 @@
-## Hi, I'm Bento :seedling: !
+## Hi, I'm Bento :bowtie: !
 
-Status : Stuck in a never-ending quest for wisdom called philosophy.
+https://img.shields.io/github/followers/davidBentoPereira?style=social
+
+
+
+Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 ### :information_source: About me
 
 - Learning : Freelancing :zap: | Tailwind CSS :leaves:
-- Languages : PHP, Ruby on Rails
-- Hobbies : Philosophy & Litterature & Trail Running & Music & Guitar
+- Languages : PHP, Ruby on Rails :gem:
+- Hobbies : Philosophy & Litterature :book: & Trail Running  & Music & Guitar :guitar:
 - Fact : First solve the problem, then write the code heart
 - Organisation : Freelance
 
