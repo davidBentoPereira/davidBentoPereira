@@ -8,13 +8,13 @@ Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 ### :information_source: About me
 
-**Learning :** Freelancing :zap: & Tailwind CSS :leaves:
+> **Learning :** Freelancing :zap: & Tailwind CSS :leaves:
 
-**Languages :** PHP & Ruby on Rails :gem:
+> **Languages :** PHP & Ruby on Rails :gem:
 
-**Hobbies :** Philosophy & Litterature :book: & Trail Running :running: & Music & Guitar :guitar:
+> **Hobbies :** Philosophy & Litterature :book: & Trail Running :running: & Music & Guitar :guitar:
 
-**Organisation :** :victory: Freelance :victory:
+> **Organisation :** :victory: Freelance :victory:
 
 ### :mailbox_with_mail: Get in touch
 
