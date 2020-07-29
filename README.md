@@ -10,7 +10,7 @@ Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 - Learning : Freelancing :zap: | Tailwind CSS :leaves:
 - Languages : PHP, Ruby on Rails :gem:
-- Hobbies : Philosophy & Litterature :book: & Trail Running  & Music & Guitar :guitar:
+- Hobbies : Philosophy & Litterature :book: & Trail Running :running: & Music & Guitar :guitar:
 - Fact : First solve the problem, then write the code heart
 - Organisation : Freelance
 
