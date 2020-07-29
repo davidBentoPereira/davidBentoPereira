@@ -16,7 +16,7 @@
   </samp>
 </p>
 
-<div class="center">
+<p class="center">
 ## Hi, I'm Bento ! :bowtie:
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
@@ -43,4 +43,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
+</p>
