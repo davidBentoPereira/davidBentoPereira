@@ -18,25 +18,26 @@
 
 <div align="center">
 
-<h2>Hi, I'm Bento :wave: Freelance Developer</h2>
+## Hi, I'm Bento :wave: Freelance Developer
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
 
 ![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
+<samp>
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
 ### :information_source: About me
 
-> **Learning :** Freelancing :zap: & Tailwind CSS :leaves:
+**Learning :** Freelancing :zap: & Tailwind CSS :leaves:
 
-> **Languages :** PHP & Ruby on Rails :gem:
+**Languages :** PHP & Ruby on Rails :gem:
 
-> **Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
+**Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
 
-> **Organisation :** :victory: Freelance :victory:
+**Organisation :** :victory: Freelance :victory:
 
 ### :mailbox_with_mail: Get in touch
 
