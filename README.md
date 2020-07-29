@@ -4,7 +4,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
-Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
+:bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
+
+:hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
 ### :information_source: About me
 
