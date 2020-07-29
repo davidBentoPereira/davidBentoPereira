@@ -25,12 +25,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
 <samp>
+  
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
+</samp>
+
 ### :information_source: About me
 
+<samp>
+  
 **Learning :** Freelancing :zap: & Tailwind CSS :leaves:
 
 **Languages :** PHP & Ruby on Rails :gem:
@@ -38,6 +43,8 @@
 **Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
 
 **Organisation :** :victory: Freelance :victory:
+
+</samp>
 
 ### :mailbox_with_mail: Get in touch
 
