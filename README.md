@@ -1,4 +1,4 @@
-## Hi, I'm Bento :bowtie: !
+## Hi, I'm Bento ! :bowtie:
 
 ![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
