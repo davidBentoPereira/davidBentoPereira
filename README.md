@@ -1,4 +1,4 @@
-## Hi, I'm Bento :seeding: !
+## Hi, I'm Bento :seedling: !
 
 Status : Stuck in a never-ending quest for wisdom called philosophy.
 
