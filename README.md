@@ -1,6 +1,6 @@
 ## Hi, I'm Bento :bowtie: !
 
-https://img.shields.io/github/followers/davidBentoPereira?style=social
+![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
 
 
