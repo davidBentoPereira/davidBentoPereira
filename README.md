@@ -15,14 +15,14 @@
     :notes: Aimer, Mrs. GREEN APPLE, Kenshi Yonezu <br>
   </samp>
 </p>
-
+<div class="center">
 ## Hi, I'm Bento ! :bowtie:
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
 
 ![GitHub followers](https://img.shields.io/github/followers/davidBentoPereira?style=social)
 
-:bee: Stuck in a <samp>never-ending</samp> quest for wisdom called philosophy :seedling:
+:bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
 
@@ -42,3 +42,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+</center>
