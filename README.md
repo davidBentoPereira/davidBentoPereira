@@ -8,8 +8,6 @@ Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 ### :information_source: About me
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
-
 - Learning : Freelancing :zap: | Tailwind CSS :leaves:
 - Languages : PHP, Ruby on Rails :gem:
 - Hobbies : Philosophy & Litterature :book: & Trail Running :running: & Music & Guitar :guitar:
