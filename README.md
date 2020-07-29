@@ -12,11 +12,11 @@
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
   
-**:school_satchel: Learning :** Freelancing :zap: & Tailwind CSS :leaves:
+**:school_satchel: Learning :** Freelancing & Tailwind CSS
 
-**:computer: Languages :** PHP & Ruby on Rails :gem:
+**:computer: Languages :** PHP & Ruby on Rails
 
-**:heart: Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
+**:heart: Hobbies :** Philosophy & Litterature & Trail Running & Music & Guitar
 
 **:office: Organisation :** :v: Freelance :v:
 
