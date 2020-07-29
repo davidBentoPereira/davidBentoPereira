@@ -42,7 +42,7 @@
 
 **Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
 
-**Organisation :** :victory: Freelance :victory:
+**Organisation :** :v: Freelance :v:
 
 </samp>
 
