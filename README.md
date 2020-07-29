@@ -17,7 +17,8 @@
 </p>
 
 <div align="center">
-## Hi, I'm Bento ! :bowtie:
+
+<h2>Hi, I'm Bento ! :bowtie:</h2>
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
 
