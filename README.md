@@ -15,6 +15,7 @@
     :notes: Aimer, Mrs. GREEN APPLE, Kenshi Yonezu <br>
   </samp>
 </p>
+
 <div class="center">
 ## Hi, I'm Bento ! :bowtie:
 
@@ -42,4 +43,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</center>
+</div>
