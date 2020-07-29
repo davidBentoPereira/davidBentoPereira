@@ -11,12 +11,6 @@
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
-
-</samp>
-
-### :information_source: About me
-
-<samp>
   
 **:school_satchel: Learning :** Freelancing :zap: & Tailwind CSS :leaves:
 
