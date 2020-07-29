@@ -12,7 +12,7 @@ Status : Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 > **Languages :** PHP & Ruby on Rails :gem:
 
-> **Hobbies :** Philosophy & Litterature :book: & Trail Running :running: & Music & Guitar :guitar:
+> **Hobbies :** Philosophy :honey_pot: Litterature :book: Trail Running :running: Music  :musical_note: Guitar :guitar:
 
 > **Organisation :** :victory: Freelance :victory:
 
