@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi :wave:, I'm Bento. A Ruby on Rails Freelance Developer among the others :seed: 
+## Hi, I'm Bento :wave:
 
 ![](https://media1.tenor.com/images/8964fed65a41840b2ee14f56f7f8cf5f/tenor.gif)
 
@@ -11,7 +11,9 @@
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
-  
+
+**:gem: Job :** Ruby on Rails Freelance Developer 
+
 **:school_satchel: Learning :** Freelancing & Tailwind CSS
 
 **:computer: Languages :** PHP & Ruby on Rails
