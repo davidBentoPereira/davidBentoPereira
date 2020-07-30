@@ -33,5 +33,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<a href="https://dev.to/bento">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="Dev.to" style="vertical-align:top; margin:4px"></img>
+</a>
 
 </div>
