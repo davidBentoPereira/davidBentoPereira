@@ -50,5 +50,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:4px"></img>
 
 
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="PHP Storm" style="vertical-align:top; margin:4px"></img>
+
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_rubymine.svg" alt="RubyMine" style="vertical-align:top; margin:4px"></img>
+
+
+
 
 </div>
