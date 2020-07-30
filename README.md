@@ -16,7 +16,7 @@
 
 **:school_satchel: Learning :** Freelancing & Tailwind CSS
 
-**:computer: Languages :** PHP & Ruby on Rails
+**:computer: Languages & Frameworks:** PHP & Symfony & Ruby & Ruby on Rails
 
 **:heart: Hobbies :** Philosophy & Litterature & Trail Running & Music & Guitar
 
@@ -33,3 +33,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 </div>
+
+<div align=right>
+![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap@3x.png)
+<div>
