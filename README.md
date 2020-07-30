@@ -26,6 +26,9 @@
 <a href="https://www.linkedin.com/in/david-bento-pereira/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://dev.to/bento">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="Dev.to" style="vertical-align:top; margin:4px"></img>
+</a>
 
 **:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/davidbentopereira) | [Upwork](https://www.upwork.com/freelancers/~01bc7eb64810734817)
 
@@ -33,9 +36,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<a href="https://dev.to/bento">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/devto.svg" alt="Dev.to" style="vertical-align:top; margin:4px"></img>
-</a>
+
 <!--
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px"></img>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="Bootstrap" style="vertical-align:top; margin:4px"></img>
