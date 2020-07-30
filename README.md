@@ -35,5 +35,5 @@
 </div>
 
 <div align=right>
-![](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap@3x.png)
+[](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/bootstrap@3x.png)
 <div>
