@@ -10,7 +10,7 @@
   
 :bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
-:hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore
+:hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore  :skull:
 
 **:gem: Job :** Ruby on Rails Freelance Developer 
 
