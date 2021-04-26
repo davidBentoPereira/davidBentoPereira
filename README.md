@@ -39,7 +39,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbentopereira&layout=compact&hide=html" alt="davidbentopereira" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidbentopereira&show_icons=true" alt="davidbentopereira" />
-
-<p align="center">
-<a href="https://dev.to/bento" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bento" height="30" width="30" /></a>
-</p>
