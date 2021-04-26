@@ -12,15 +12,17 @@
 
 :hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore  :skull:
 
-**:gem: Job :** Ruby on Rails Freelance Developer 
+**:gem: Job:** Ruby on Rails Fullstack Developer (Freelancer) 
 
-**:school_satchel: Learning :** Freelancing & Tailwind CSS
+**:school_satchel: Learning:** React & Next.JS & Redux
 
-**:computer: Languages & Frameworks:** PHP & Symfony & Ruby & Ruby on Rails
+**:computer: Languages:** PHP, Ruby, Javascript, Typescript
 
-**:heart: Hobbies :** Philosophy & Litterature & Trail Running & Music & Guitar
+**:computer: Frameworks:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS
 
-**:office: Organisation :** Freelance :v:
+**:heart: Hobbies:** Philosophy, Litterature, Trail Running, Music, Guitar
+
+**:office: Organisation:** Freelancer :v:
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/david-bento-pereira/">
