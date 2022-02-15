@@ -8,21 +8,19 @@
 </div>
 <samp>
   
-:bee: Stuck in a never-ending quest for wisdom called philosophy :seedling:
+**🤔 STATUS:**  Stuck in a never-ending quest for wisdom called philosophy :seedling:
 
-:hourglass: Sed fugit interea, fugit irreparabile tempus, singula dum capti circumvectamur amore  :skull:
+**🐝 FAVORITE QUOTE:**  "Computer is not the thing. It's the thing that gets you to the thing." - Halt & Catch Fire (TV Show)
 
-**:gem: Job:** Ruby on Rails Fullstack Developer (Freelancer) 
+**💎 JOB:** Ruby on Rails Fullstack Developer (Freelancer) 
 
-**:school_satchel: Learning:** React & Next.JS & Redux
+**💻 LANGUAGES:** PHP, Ruby, Javascript, Typescript
 
-**:computer: Languages:** PHP, Ruby, Javascript, Typescript
+**💻 FRAMEWORKS:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS
 
-**:computer: Frameworks:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS
+**❤️ HOBBIES:** Philosophy, Litterature, Trail Running, Music, Guitar
 
-**:heart: Hobbies:** Philosophy, Litterature, Trail Running, Music, Guitar
-
-**:office: Organisation:** Freelancer :v:
+**🏢 ORGANISATION:** Freelancer... for now. I'm currently searching for a long terme position 😉
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/david-bento-pereira/">
